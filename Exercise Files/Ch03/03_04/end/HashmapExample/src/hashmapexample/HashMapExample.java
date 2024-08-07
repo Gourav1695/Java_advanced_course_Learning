@@ -10,7 +10,7 @@ import java.util.HashMap;
 public class HashMapExample {
     
     public static void main(String[] args) {  
-        
+        HashMap<String,Integer> phonebook1 = new HashMap<>();
         HashMap<String, Integer> phonebook = new HashMap<>();
         phonebook.put("Kevin", 12345);
         phonebook.put("Jill", 98765);

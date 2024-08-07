@@ -18,9 +18,16 @@ public class Main {
                 System.out.println("Hello " + name);
             }
         };
-        gm.greet("Bethan");       
-        
-        
+        gm.greet("Bethan");
+        // lambda expression example
+            GreetingMessage gm2 = (String name) ->{
+                System.out.println("Hello Yo "+ name);
+            };
+        gm2.greet("Gourav");
+        MessagePrinter mp = () ->{
+            System.out.println("This is a message!");
+        };
+        mp.printMessage();
         
     }
     
