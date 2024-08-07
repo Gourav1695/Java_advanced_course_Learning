@@ -14,7 +14,7 @@ public class Library {
             
         ArrayList<Book> books = populateLibrary();
                 
-        books.stream().filter(book -> {
+        books.parallelStream().filter(book -> { // may improve the performance also it depends on the machine.
             return book.getAuthor().startsWith("J");
         }).forEach(System.out::println);                               
 

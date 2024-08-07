@@ -51,3 +51,17 @@ mExercise Files/Ch04/04_01/end/FunctionalInterfacesExample/src/functionalinterfa
 SExercise Files/Ch04/04_02/begin/LambdaExample/src/lambdaexample/MessagePrinter.java,2/f/2f8d4f4781a6d68221838b9f0fcc6167b97d61f1
 y
 IExercise Files/Ch04/04_02/begin/LambdaExample/src/lambdaexample/Main.java,2/a/2a3f4924c8b00f8821e49675e8b41de152f523ad
+è
+_Exercise Files/Ch04/04_03/begin/MethodReferencesExample/src/methodreferencesexample/Shapes.java,5/1/51a8668e40f345e9bdfc206a67c799972fc0d04e
+ç
+]Exercise Files/Ch04/04_03/begin/MethodReferencesExample/src/methodreferencesexample/Main.java,0/1/01b79437e95b8252fd52a2595ef7ccde5b2ff9a8
+è
+_Exercise Files/Ch04/04_03/begin/MethodReferencesExample/src/methodreferencesexample/Square.java,4/e/4e2bb2149342202e1ebf4b474e4774769145d0aa
+z
+JExercise Files/Ch04/04_05/begin/StreamsExample/src/streamexample/Book.java,c/7/c722dd155ad2b41572b65188aacadfc9d3c1976c
+}
+MExercise Files/Ch04/04_05/begin/StreamsExample/src/streamexample/Library.java,3/2/326446d0da62f5c4aef5dda6977f9c4f727b0370
+ã
+[Exercise Files/Ch04/04_06/begin/ParallelStreamsExample/src/parallelstreamsexample/Book.java,6/8/68ffb1d95c2676a266eb171386f1fc31940cd261
+é
+^Exercise Files/Ch04/04_06/begin/ParallelStreamsExample/src/parallelstreamsexample/Library.java,0/d/0de4e347944e083f360ea815af0b3e4e493ed5c2
