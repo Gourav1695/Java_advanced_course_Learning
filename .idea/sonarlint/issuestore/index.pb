@@ -65,3 +65,7 @@ MExercise Files/Ch04/04_05/begin/StreamsExample/src/streamexample/Library.java,
 [Exercise Files/Ch04/04_06/begin/ParallelStreamsExample/src/parallelstreamsexample/Book.java,6/8/68ffb1d95c2676a266eb171386f1fc31940cd261
 Ž
 ^Exercise Files/Ch04/04_06/begin/ParallelStreamsExample/src/parallelstreamsexample/Library.java,0/d/0de4e347944e083f360ea815af0b3e4e493ed5c2
+Œ
+\Exercise Files/Ch04/04_06/end/ParallelStreamsExample/src/parallelstreamsexample/Library.java,8/3/836c1cd8016227a1a5994d234d9a88ccdd558c10
+w
+GExercise Files/Ch05/05_02/begin/HelloWorld/src/helloworld/Greeting.java,0/d/0dfcb6539f35d0ff6f695c7868dfc208fd84a7dc
