@@ -11,7 +11,7 @@ package synchronization;
  */
 public class ATM {    
     
-    static void withdraw(BankAccount account, int amount) {  
+    synchronized static void withdraw(BankAccount account, int amount) {
         int balance = account.getBalance();
         if((balance - amount) < - account.getOverdraft()) {
             System.out.println("Transaction denied!");            

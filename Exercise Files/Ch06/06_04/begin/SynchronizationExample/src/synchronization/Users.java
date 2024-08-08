@@ -10,7 +10,7 @@ public class Users {
     
     static final BankAccount account = new BankAccount(50);
     
-    public static void main(String[] args) {
+    public  static void main(String[] args) {
         
         account.topUp(100);
         

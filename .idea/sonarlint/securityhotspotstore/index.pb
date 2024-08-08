@@ -99,3 +99,19 @@ dExercise Files/Ch06/06_03/begin/RunnableInterfaceExample/src/runnable_interface
 WExercise Files/Ch06/06_03/end/RunnableInterfaceExample/src/runnable_interface/Main.java,4/6/46f23c02589b944bb53f9dacdb62dc61bdbcac8a
 ’
 bExercise Files/Ch06/06_03/end/RunnableInterfaceExample/src/runnable_interface/RunnableExample.java,1/3/13dc9800ce56b63f766c94e0bfc459c61ce1aee3
+ƒ
+SExercise Files/Ch06/06_04/begin/SynchronizationExample/src/synchronization/ATM.java,5/6/56f1b47561aa6a003a5bca41fe90cc499e63ff58
+‹
+[Exercise Files/Ch06/06_04/begin/SynchronizationExample/src/synchronization/BankAccount.java,8/4/8429ca8c1c89fc28c98ff62cf892878594e6cc2e
+…
+UExercise Files/Ch06/06_04/begin/SynchronizationExample/src/synchronization/Users.java,7/e/7e1bcec5b01d178b6e1a7783a01b5a9fa47a4811
+‡
+WExercise Files/Ch06/06_05/begin/ThreadDeadlockExample/src/deadlock_example/Kitchen.java,b/a/bafb88fe18a6fd9829e4c3181733686440685c32
+}
+MExercise Files/Ch07/07_02/begin/ScannerExample/src/scannerexample/Person.java,a/f/afcad06676e32e067c53c2e1791a3f9a213cf166
+„
+TExercise Files/Ch07/07_02/begin/ScannerExample/src/scannerexample/PersonCreator.java,2/4/24f1b3e0a144bacdac77de1024d8539eca7227d5
+‚
+RExercise Files/Ch07/07_02/end/ScannerExample/src/scannerexample/PersonCreator.java,6/2/627671279c685d0153c6b407a65b444b5efef4e2
+š
+jExercise Files/Ch07/07_03/begin/BufferedReaderExample/src/bufferedreaderexample/BufferedReaderExample.java,1/9/1998adf7c023ccdf8303716895b56d8784cb00dc
