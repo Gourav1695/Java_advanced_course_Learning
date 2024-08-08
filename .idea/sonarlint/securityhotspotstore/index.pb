@@ -69,3 +69,33 @@ MExercise Files/Ch04/04_05/begin/StreamsExample/src/streamexample/Library.java,
 \Exercise Files/Ch04/04_06/end/ParallelStreamsExample/src/parallelstreamsexample/Library.java,8/3/836c1cd8016227a1a5994d234d9a88ccdd558c10
 w
 GExercise Files/Ch05/05_02/begin/HelloWorld/src/helloworld/Greeting.java,0/d/0dfcb6539f35d0ff6f695c7868dfc208fd84a7dc
+m
+=Exercise Files/Ch05/05_02/end/HelloWorld/src/module-info.java,8/f/8f53ac227ba00d5ff954972360322a57a2ff63c5
+u
+EExercise Files/Ch05/05_02/end/HelloWorld/src/helloworld/Greeting.java,8/2/827ba2385eae8eaefa7aea8cb61da8787cd45653
+é
+^Exercise Files/Ch05/05_03/end/JavaModularApplication1/src/moduleA/classes/package2/Class2.java,2/9/297fadbd7a999e8263f4d60a40da73bfd7b9bb03
+é
+^Exercise Files/Ch05/05_03/end/JavaModularApplication1/src/moduleA/classes/package1/Class1.java,5/e/5e2f48350bec6c59d56f03c76c06132d054a351b
+ä
+ZExercise Files/Ch05/05_03/end/JavaModularApplication1/src/moduleB/classes/module-info.java,5/2/529790aaeaf6a81a93fbab887dbd97ad7d86b394
+í
+bExercise Files/Ch05/05_05/begin/ModularExample/src/helloworld/com/bethan/greetings/HelloWorld.java,7/2/72dc2525e6a5f46054e04b492114bd93edd45e20
+ê
+`Exercise Files/Ch05/05_05/end/ModularExample/src/helloworld/com/bethan/greetings/HelloWorld.java,c/2/c27c6c072b1ce5801b5be4538893ff58a52a2ded
+}
+MExercise Files/Ch06/06_02/begin/ThreadClassExample/src/thread_class/Main.java,c/b/cbf9093a2b794c169434694c6f4b19f87a2fd026
+Ü
+VExercise Files/Ch06/06_02/begin/ThreadClassExample/src/thread_class/ThreadExample.java,7/c/7c3c45c8ff6d38fb7315f540c030f5ab6cc39216
+{
+KExercise Files/Ch06/06_02/end/ThreadClassExample/src/thread_class/Main.java,5/e/5e3759a143ee6e2e8a0153f747a45d23388980a9
+Ñ
+TExercise Files/Ch06/06_02/end/ThreadClassExample/src/thread_class/ThreadExample.java,c/b/cbac46e3edf0bafb04bb4e67b0e5f2521848926e
+â
+YExercise Files/Ch06/06_03/begin/RunnableInterfaceExample/src/runnable_interface/Main.java,9/8/9837bf5ec53d51278d8aed3da4549cbbce434ce0
+î
+dExercise Files/Ch06/06_03/begin/RunnableInterfaceExample/src/runnable_interface/RunnableExample.java,b/a/bacb25e7d3116fbe6d638048dcdc4bb457f70ca3
+á
+WExercise Files/Ch06/06_03/end/RunnableInterfaceExample/src/runnable_interface/Main.java,4/6/46f23c02589b944bb53f9dacdb62dc61bdbcac8a
+í
+bExercise Files/Ch06/06_03/end/RunnableInterfaceExample/src/runnable_interface/RunnableExample.java,1/3/13dc9800ce56b63f766c94e0bfc459c61ce1aee3
