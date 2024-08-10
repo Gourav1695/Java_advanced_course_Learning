@@ -5,6 +5,8 @@
  */
 package directoriesexample;
 
+import java.io.File;
+
 /**
  *
  * @author Bethan Palmer
@@ -16,6 +18,11 @@ public class DirectoriesExample {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        String[] contents = new File(".").list();
+        for(String file: contents){
+            System.out.println(file);
+        }
+        new File ("myyDirectory").mkdir();
     }
     
 }

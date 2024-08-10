@@ -115,3 +115,21 @@ TExercise Files/Ch07/07_02/begin/ScannerExample/src/scannerexample/PersonCreator
 RExercise Files/Ch07/07_02/end/ScannerExample/src/scannerexample/PersonCreator.java,6/2/627671279c685d0153c6b407a65b444b5efef4e2
 š
 jExercise Files/Ch07/07_03/begin/BufferedReaderExample/src/bufferedreaderexample/BufferedReaderExample.java,1/9/1998adf7c023ccdf8303716895b56d8784cb00dc
+ 
+pExercise Files/Ch07/07_04/begin/TryWithResourcesExample/src/trywithresourcesexample/TryWithResourcesExample.java,0/b/0b704b9e97a99316fbef94d74afa0f5e9daff6f0
+Œ
+\Exercise Files/Ch08/08_01/begin/FileCreationExample/src/fileexample/FileCreationExample.java,0/4/0460790874da1012d9b3d25aa12cd07529430268
+~
+NExercise Files/Ch08/08_01/begin/FileCreationExample/src/fileexample/Gourav.txt,0/1/0117c2122fdfc05bf0f687be5473c7d3716a7752
+‘
+aExercise Files/Ch08/08_02/begin/DirectoriesExample/src/directoriesexample/DirectoriesExample.java,a/9/a99a4bd37f6597caa0b980d8316c1639625b63bf
+p
+@Exercise Files/Ch08/08_03/begin/PathClassExample/Hello World.txt,4/c/4cc057f2d26cdb34f7b770bd684d4dfba5b5e41d
+‹
+[Exercise Files/Ch08/08_03/begin/PathClassExample/src/pathclassexample/PathClassExample.java,a/d/ad9f596460ae81e595c46cd738ebd0c6d3614a8c
+‰
+YExercise Files/Ch08/08_03/end/PathClassExample/src/pathclassexample/PathClassExample.java,b/9/b97b6fca9a506b1b07b15a0b3bb10f139e955b02
+ˆ
+XExercise Files/Ch08/08_04/begin/FileCopyExample/src/filecopyexample/FileCopyExample.java,7/0/7050b5e01966a36a1b9a6dd4ed50464efcfb1cfb
+†
+VExercise Files/Ch08/08_04/end/FileCopyExample/src/filecopyexample/FileCopyExample.java,6/d/6d4f255e8a15672077cae992320ce481789f8a9f
